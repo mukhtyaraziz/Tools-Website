@@ -1,0 +1,68 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "execution_count": 1,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 171
+        },
+        "id": "Tqtaa6uu33eG",
+        "outputId": "0b3eb9cb-9e6b-4a22-9964-a2363b1f7861"
+      },
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "<IPython.core.display.HTML object>"
+            ],
+            "text/html": [
+              "\n",
+              "<h2>🚀 Free Online JPG to PDF Converter</h2>\n",
+              "<p>Visit our tool: <a href=\"https://freeonlinetooljpgtopdf.blogspot.com\" target=\"_blank\">freeonlinetooljpgtopdf.blogspot.com</a></p>\n",
+              "<p>Features:</p>\n",
+              "<ul>\n",
+              "  <li>No watermarks</li>\n",
+              "  <li>Instant conversion</li>\n",
+              "  <li>Mobile-friendly</li>\n",
+              "</ul>\n"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 1
+        }
+      ],
+      "source": [
+        "#@title JPG to PDF Converter Tool { display-mode: \"form\" }\n",
+        "from IPython.display import HTML\n",
+        "\n",
+        "HTML('''\n",
+        "<h2>🚀 Free Online JPG to PDF Converter</h2>\n",
+        "<p>Visit our tool: <a href=\"https://freeonlinetooljpgtopdf.blogspot.com\" target=\"_blank\">freeonlinetooljpgtopdf.blogspot.com</a></p>\n",
+        "<p>Features:</p>\n",
+        "<ul>\n",
+        "  <li>No watermarks</li>\n",
+        "  <li>Instant conversion</li>\n",
+        "  <li>Mobile-friendly</li>\n",
+        "</ul>\n",
+        "''')"
+      ]
+    }
+  ]
+}
